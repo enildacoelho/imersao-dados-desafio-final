@@ -1,5 +1,5 @@
 
-# Machine Learning aplicada a descoberta de novos medicamentos
+# Modelos de Machine Learning aplicados a descoberta de novos medicamentos
 
 
 Projeto de Data Science com análise exploratória e um modelo de machine learning para auxiliar na descoberta de novos medicamentos
