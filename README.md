@@ -8,6 +8,9 @@
 
 Projeto de análise exploratória e descoberta de conhecimento a partir da aplicação de  modelos de machine learning.
 
+# Apresentação
+
+
 
 # Metodologia
 
