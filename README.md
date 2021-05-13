@@ -24,10 +24,10 @@ Esse projeto apresenta as diversas etapas de um processo de descoberta de conhec
 
 ## Análise e seleção de modelos
 
-## Storytelling e conclusões
+# Storytelling e conclusões
 
 
-## Referências
+# Referências
 
 - [Drug discovery: passado, presente e futuro](https://docs.google.com/document/d/10EhrQBChlyYIcff3to7PrCQi5HcNk2r-zd2ZCKPtcz8/edit?usp=sharing)
 - [Expressão gênica: o caminho da informação biológica](https://drive.google.com/file/d/1VNP08ffCiGD8cqaBkdHATWSX8Yxfm3dj/view?usp=sharing)
