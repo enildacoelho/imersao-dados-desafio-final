@@ -16,7 +16,13 @@ Esse projeto apresenta as diversas etapas de um processo de descoberta de conhec
 
 # Metodologia
 
-- Os dados estão dentro do escopo? (É obrigatório o uso da base de dados usado na imersão de dados, que são inspirados no desafio proposto no Kaggle). 
+## O problema
+
+
+## Entendendo os dados
+
+
+##Os dados estão dentro do escopo? (É obrigatório o uso da base de dados usado na imersão de dados, que são inspirados no desafio proposto no Kaggle). 
 - Quando necessário, as variáveis foram tratadas?
 - Se houve criação de variáveis, as mesmas foram descritas? 
 - Ficou claro qual foi o modelo final escolhido e o que motivou a escolha?
