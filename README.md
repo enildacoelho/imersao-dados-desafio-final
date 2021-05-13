@@ -24,6 +24,12 @@ Esse projeto apresenta as diversas etapas de um processo de descoberta de conhec
 
 ## Análise e seleção de modelos
 
+## Treinamento
+
+## Testes
+
+## Aprimoramento
+
 # Storytelling e conclusões
 
 
