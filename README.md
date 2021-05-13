@@ -9,7 +9,7 @@
 Projeto de análise exploratória e descoberta de conhecimento a partir da aplicação de  modelos de machine learning.
 
 # Apresentação
-
+Em média, o tempo necessário para que um novo medicamento seja colocado no mercado, demora 10 anos. O custo para pesquisa e desenvolvimento é estimado em mais de dois bilhões. 
 
 
 # Metodologia
