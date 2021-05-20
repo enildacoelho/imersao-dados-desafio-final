@@ -19,7 +19,7 @@ Esse projeto apresenta as diversas etapas de um processo de descoberta de conhec
 ## O problema
 
 
-## Entendendo os dados
+## Obtenção e análise exploratória dos dados
 
 
 ## Análise e seleção de modelos
