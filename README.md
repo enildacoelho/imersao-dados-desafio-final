@@ -10,17 +10,22 @@ Projeto de análise exploratória e descoberta de conhecimento a partir da aplic
 
 # Apresentação
 
-Em média, o tempo necessário para que um novo medicamento seja colocado no mercado, demora 10 anos. O custo para pesquisa e desenvolvimento é estimado em mais de dois bilhões. 
-Para reduzir o tempo e consequentemente o custo da descoberta de novos medicamentos, podem ser aplicados modelos de machine learning que auxiliam nesse processo.
+Em média, o tempo necessário para que um novo medicamento seja colocado no mercado, demora 10 anos. O custo para pesquisa e desenvolvimento é estimado em mais de dois bilhões. Nesse cenário, os dados gerados nesses estudos estão cada vez mais volumosos e complexos, o que torna a Ciência de dados um forte aliado para redução de custos, tempo e a descoberta de novos medicamentos;
+
 Esse projeto apresenta as diversas etapas de um processo de descoberta de conhecimento quando aplicado a um conjunto de dados de experimentos e resultados do comportamento de drogas conhecidas. A partir da análise exploratório desse conjunto de dados, foram aplicados diversos modelos em busca de maior qualidade dos resultados.
 
 # Metodologia
 
-## O problema
-
-
 ## Obtenção e análise exploratória dos dados
 
+Os dados para análise foram obtidos a partir de um projeto "The Connectivity Map", tendo como desafio o avanço no desenvolvimento de drogas através de algoritmos de predição de Mecanismos de Ativação (MoA).
+Foram disponibilizados através da Plataforma Kaggle (https://www.kaggle.com/c/lish-moa/data) os conjuntos de dados:
+
+- experimentos:
+ 
+- mecanismos de ativação:
+
+Mais informações para a documentação e análise dos dados[:documentação e análise dos dados]:(http://github.com).
 
 ## Análise e seleção de modelos
 
