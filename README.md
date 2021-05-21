@@ -22,14 +22,8 @@ Os dados para análise foram obtidos a partir de um projeto "The Connectivity Ma
 
 O CMap gerou uma coleção de mais de 1.5M de expressões gênicas obtidas de aproximadamente 5000 compostos moleculares, e aproximadamente 3000 reagentes geneticos, testados em múltiplos tipos celulares. 
 
-Foram disponibilizados através da Plataforma Kaggle (https://www.kaggle.com/c/lish-moa/data) os conjuntos de dados:
-
-- experimentos:
+A partir dessa coleção de dados, disponível em https://www.kaggle.com/c/lish-moa/data, foi realizada uma  análise exploratória.
  
-- mecanismos de ativação:
-
-Mais informações para a documentação e análise dos dados[:documentação e análise dos dados]:(http://github.com).
-
 ## Análise e seleção de modelos
 
 ## Treinamento
