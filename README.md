@@ -18,7 +18,10 @@ Esse projeto apresenta as diversas etapas de um processo de descoberta de conhec
 
 ## Obtenção e análise exploratória dos dados
 
-Os dados para análise foram obtidos a partir de um projeto "The Connectivity Map", tendo como desafio o avanço no desenvolvimento de drogas através de algoritmos de predição de Mecanismos de Ativação (MoA).
+Os dados para análise foram obtidos a partir de um projeto "The Connectivity Map" (CMap), tendo como desafio o avanço no desenvolvimento de drogas através de algoritmos de predição de Mecanismos de Ativação (MoA).
+
+O CMap gerou uma coleção de mais de 1.5M de expressões gênicas obtidas de aproximadamente 5000 compostos moleculares, e aproximadamente 3000 reagentes geneticos, testados em múltiplos tipos celulares. 
+
 Foram disponibilizados através da Plataforma Kaggle (https://www.kaggle.com/c/lish-moa/data) os conjuntos de dados:
 
 - experimentos:
