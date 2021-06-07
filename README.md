@@ -22,7 +22,7 @@ Os dados para análise foram obtidos a partir de um projeto "The Connectivity Ma
 
 O CMap gerou uma coleção de mais de 1.5M de expressões gênicas obtidas de aproximadamente 5000 compostos moleculares, e aproximadamente 3000 reagentes geneticos, testados em múltiplos tipos celulares. 
 
-A partir dessa coleção de dados, disponível em https://www.kaggle.com/c/lish-moa/data, foi realizada uma análise exploratória (EDA) [análise exploratória.] : (EDA)(https://github.com/enildacoelho/imersao-dados-desafio-final/blob/main/Notebooks/analise_dados_01)
+A partir dessa coleção de dados, disponível em https://www.kaggle.com/c/lish-moa/data, foi realizada uma análise exploratória (EDA) [análise exploratória.], considerando os seguintes passos: 
 
 ## Análise e seleção de modelos
 
