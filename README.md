@@ -24,6 +24,17 @@ O CMap gerou uma coleção de mais de 1.5M de expressões gênicas obtidas de ap
 
 A partir dessa coleção de dados, disponível em https://www.kaggle.com/c/lish-moa/data, foi realizada uma análise exploratória (EDA) [análise exploratória.], considerando os seguintes passos: 
 
+1. Identification of variables and data types
+2. Analyzing the basic metrics
+3. Non-Graphical Univariate Analysis
+4. Graphical Univariate Analysis
+5. Bivariate Analysis
+6. Variable transformations
+7. Missing value treatment
+8. Outlier treatment
+9. Correlation Analysis
+10. Dimensionality Reduction
+
 ## Análise e seleção de modelos
 
 ## Treinamento
