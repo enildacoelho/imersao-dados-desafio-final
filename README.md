@@ -22,24 +22,20 @@ Os dados para análise foram obtidos a partir de um projeto "The Connectivity Ma
 
 O CMap gerou uma coleção de mais de 1.5M de expressões gênicas obtidas de aproximadamente 5000 compostos moleculares, e aproximadamente 3000 reagentes geneticos, testados em múltiplos tipos celulares. 
 
-A partir dessa coleção de dados, disponível em https://www.kaggle.com/c/lish-moa/data, foi realizada uma análise exploratória (EDA) [análise exploratória.], considerando os seguintes passos: 
+A partir dessa coleção de dados, disponível em https://www.kaggle.com/c/lish-moa/data, foi realizada uma análise exploratória (EDA) [análise exploratória.].
+
+Visão geral do processo
 
 ![image](https://user-images.githubusercontent.com/80279504/121118562-71304780-c7f0-11eb-80f0-b0b451bcdfdc.png)
 
+
+Etapas de análise exploratória dos dados
+
 ![image](https://user-images.githubusercontent.com/80279504/121118422-329a8d00-c7f0-11eb-95cf-9011ef6de472.png)
 
-1. Identification of variables and data types
-2. Análise de métricas basicas (estatísticas)
-3. Análise de variáveis não gráficas
-4. Análise de variáveis gráficas
-5. Bivariate Analysis
-6. Variable transformations
-7. Missing value treatment
-8. Outlier treatment
-9. Correlation Analysis
-10. Dimensionality Reduction
+Os primeiros resultados da análise podem ser observados nesse documento: [https://github.com/enildacoelho/imersao-dados-desafio-final/blob/main/notebooks/EDA_01.ipynb].
 
-## Análise e seleção de modelos
+## Modelos de Machine Learning
 
 ## Treinamento
 
