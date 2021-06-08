@@ -24,6 +24,8 @@ O CMap gerou uma coleção de mais de 1.5M de expressões gênicas obtidas de ap
 
 A partir dessa coleção de dados, disponível em https://www.kaggle.com/c/lish-moa/data, foi realizada uma análise exploratória (EDA) [análise exploratória.], considerando os seguintes passos: 
 
+![image](https://user-images.githubusercontent.com/80279504/121118562-71304780-c7f0-11eb-80f0-b0b451bcdfdc.png)
+
 ![image](https://user-images.githubusercontent.com/80279504/121118422-329a8d00-c7f0-11eb-95cf-9011ef6de472.png)
 
 1. Identification of variables and data types
