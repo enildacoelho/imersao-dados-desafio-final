@@ -55,7 +55,8 @@ Os primeiros resultados da análise podem ser observados nesse documento: [https
 - [Daiane Klein](https://colab.research.google.com/drive/1EwueEMQC_vLXf_oxN3w60itrvsHjrw8B?usp=sharing)
 - [Conrado Bittencourt](https://colab.research.google.com/drive/1QCRMnF-9cFRuOO_PrWpzj-UAclQuIomB?usp=sharing)
 - [Matheus Leite Llorente](https://colab.research.google.com/drive/1eca1wG-pkGT0IiPv4-vcpjur3tJjj-6e?usp=sharing)
-
+- https://www.analyticsvidhya.com/blog/2021/04/rapid-fire-eda-process-using-python-for-ml-implementation/
+- https://towardsai.net/p/data-analysis/exploratory-data-analysis-in-python-ebdf643a33f6
 
 
 
